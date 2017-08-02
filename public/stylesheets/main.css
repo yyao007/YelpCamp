@@ -24,6 +24,7 @@
 }
 
 .form {
-    width: 35%;
+    width: 40%;
+    min-width: 400px;
     margin: 0 auto;
 }
