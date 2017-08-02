@@ -51,6 +51,6 @@ app.use("/", indexRoutes);
 app.use("/campgrounds", campgroundsRoutes);
 app.use("/campgrounds/:id/comments", commentsRoutes);
 
-app.listen(1005, () => {
-	console.log("YelpCamp Server listening on port 1005");
+app.listen(2000, () => {
+	console.log("YelpCamp Server listening on port 2000");
 });

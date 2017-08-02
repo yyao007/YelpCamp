@@ -1,0 +1,8 @@
+{
+    "apps": [{
+	"name": "yelpcamp",
+	"watch": true,
+	"interpreter": "/usr/bin/babel-node",
+        "script": "./app.js"
+     }]
+}
